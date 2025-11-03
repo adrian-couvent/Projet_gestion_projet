@@ -1,10 +1,10 @@
 ## Carnet de bord du 03/11/2025
 
 # Idée de jeu (x5)
--> Jeu 1: Gestion d'usine  
-          - Type de jeu  
-          - Objectifs  
-          - Contraintes  
+-> Jeu 1: Gestion d'usine 
+- Type de jeu  
+- Objectifs  
+- Contraintes  
 -> Jeu 2: Sensibilisation aux problèmes des mals voyants
           - Type de jeu
           - Objectifs
