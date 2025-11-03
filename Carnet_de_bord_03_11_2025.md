@@ -1,6 +1,6 @@
-##Carnet de bord du 03/11/2025
+## Carnet de bord du 03/11/2025
 
-#Idée de jeu (x5)
+# Idée de jeu (x5)
 -> Jeu 1: Gestion d'usine
           - Type de jeu
           - Objectifs
@@ -30,5 +30,5 @@ Résultat des votes sur les 5 jeuxs
 ->jeu 4: X pour, X contre, X abstention
 ->jeu 5: X pour, X contre, X abstention
 
-#Jeu sélectionné
+# Jeu sélectionné
 Description du jeu sélectionné
