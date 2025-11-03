@@ -1,1 +1,1 @@
-Description du projet de jeu sérieu
+Description du projet de jeu sérieux
